@@ -1,6 +1,6 @@
 # Restaurant Landing Page &nbsp; ![badge](https://img.shields.io/badge/HTML%20and%20CSS-Project2-green)
 
-[![](https://img.shields.io/badge/Live-Link-blue)](https://foodrestaurant-landingpage.netlify.app/)
+[![](https://img.shields.io/badge/Live-Link-blue)](https://foodrestaurant-landingpage.netlify.app2)
 
 ## Skills acquired 👨‍💻
 
